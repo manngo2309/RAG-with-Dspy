@@ -1,0 +1,7 @@
+beautifulsoup4
+pandas==1.5.3
+requests==2.31.0
+python-dotenv==1.0.0
+chromadb==0.5.0
+dspy-ai==2.4.9
+streamlit
